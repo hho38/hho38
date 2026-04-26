@@ -1,1 +1,2 @@
-# hho38
+# Hi There!
+# Welcome to the Harrison's repository!
